@@ -1,4 +1,4 @@
-package Test;
+package test;
 
 /**
  * 利用递归完成九九乘法表
